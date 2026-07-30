@@ -1,0 +1,61 @@
+{
+  "nombre": "Braulio Bonilla Cadena",
+  "ubicacion": "Ciudad de México",
+  "idiomas": {
+    "espanol": "nativo",
+    "ingles": "técnico (lectura y escritura)"
+  },
+  "posicionamiento": "Híbrido entre Estratega Comercial B2B y Arquitecto de Datos/IA. Ejecuta ciclos completos de venta B2B y descubre fugas de capital mediante análisis de datos crudos en Python y SQL, modelado de cohortes y automatización, superando las limitaciones de las herramientas de BI tradicionales.",
+  "experiencia": [
+    {
+      "empresa": "QUICKSY-Go",
+      "cargo": "Founder & Digital Strategist",
+      "periodo": "2024 – actualidad",
+      "logros": [
+        "Escalamiento de comunidad orgánica a más de 85,000 usuarios sin inversión publicitaria",
+        "Análisis algorítmico de plataformas y contenido viral para crecimiento",
+        "Segmentación de audiencia y optimización de engagement con SQL y Google Analytics 4"
+      ]
+    },
+    {
+      "empresa": "Totalplay",
+      "cargo": "Gerente de Ventas / Inteligencia Comercial B2B",
+      "periodo": "2023 – 2025",
+      "logros": [
+        "Ciclo completo de venta consultiva B2B y B2C con outbound sales",
+        "Gestión de CRM y reducción de churn mediante segmentación",
+        "Capacitación y liderazgo de equipos comerciales multinivel"
+      ]
+    },
+    {
+      "empresa": "MetLife",
+      "cargo": "Analista Comercial / Business Intelligence",
+      "periodo": "~1 año",
+      "logros": [
+        "Inteligencia de mercado para penetración de segmentos de alto valor no cubiertos",
+        "Identificación de médicos del sector privado sin cobertura institucional de alta calidad"
+      ]
+    }
+  ],
+  "proyecto_insignia": {
+    "nombre": "Ecosistema de IA On-Premise",
+    "descripcion": "Arquitectura 100% on-premise, CPU-only, cero-cloud. Opera sobre hardware reciclado propio. Soberanía absoluta de datos, costo operativo cero, arquitectura multi-agente autónoma.",
+    "pilares": [
+      "Soberanía absoluta de datos: sin exposición a terceros, sin costos recurrentes de API",
+      "Multi-agente autónomo: agentes especializados que colaboran en flujos de trabajo complejos",
+      "Costo operativo cero: hardware reciclado, eficiencia computacional extrema"
+    ]
+  },
+  "certificaciones": {
+    "Google": ["Data Analytics", "IT Support", "AI Essentials", "Business Intelligence", "Google Analytics 4"],
+    "IBM": ["Data Science & Python"],
+    "Harvard_ManageMentor": ["Finanzas", "Negociación", "Enfoque al Cliente", "Medición de Desempeño"],
+    "Santander_MIT_AWS": ["Transformación Digital", "Big Data", "Cloud Computing Fundamentals"]
+  },
+  "educacion": "Formación en Derecho Corporativo y Financiero en la UNAM (en curso). Ventaja estructural en compliance y estructuración legal de operaciones comerciales y tecnológicas.",
+  "contacto": {
+    "email": "braulio.bonilla.c@gmail.com",
+    "linkedin": "linkedin.com/in/braulio-bonilla-c",
+    "cv": "cv-braulio-bonilla.pdf"
+  }
+}
