@@ -47,7 +47,7 @@ ${JSON.stringify(agentContext, null, 2)}`
                 'Content-Type': 'application/json',
             },
             body: JSON.stringify({
-                model: 'llama3-8b-8192',
+                model: 'openai/gpt-oss-20b',
                 messages: [systemPrompt, ...userMessages.slice(-10)], // últimos 10 mensajes para contexto
                 temperature: 0.4,
                 max_tokens: 500,
